@@ -1,0 +1,9 @@
+D:\Raghu\Project\Poc\AppToFindFilesAndReplace\AppToFindFilesAndReplace\AppToFindFilesAndReplace\bin\Release\AppToFindFilesAndReplace.exe.config
+D:\Raghu\Project\Poc\AppToFindFilesAndReplace\AppToFindFilesAndReplace\AppToFindFilesAndReplace\bin\Release\AppToFindFilesAndReplace.exe
+D:\Raghu\Project\Poc\AppToFindFilesAndReplace\AppToFindFilesAndReplace\AppToFindFilesAndReplace\bin\Release\AppToFindFilesAndReplace.pdb
+D:\Raghu\Project\Poc\AppToFindFilesAndReplace\AppToFindFilesAndReplace\AppToFindFilesAndReplace\obj\Release\AppToFindFilesAndReplace.frmMain.resources
+D:\Raghu\Project\Poc\AppToFindFilesAndReplace\AppToFindFilesAndReplace\AppToFindFilesAndReplace\obj\Release\AppToFindFilesAndReplace.Properties.Resources.resources
+D:\Raghu\Project\Poc\AppToFindFilesAndReplace\AppToFindFilesAndReplace\AppToFindFilesAndReplace\obj\Release\AppToFindFilesAndReplace.csproj.GenerateResource.cache
+D:\Raghu\Project\Poc\AppToFindFilesAndReplace\AppToFindFilesAndReplace\AppToFindFilesAndReplace\obj\Release\AppToFindFilesAndReplace.csproj.CoreCompileInputs.cache
+D:\Raghu\Project\Poc\AppToFindFilesAndReplace\AppToFindFilesAndReplace\AppToFindFilesAndReplace\obj\Release\AppToFindFilesAndReplace.exe
+D:\Raghu\Project\Poc\AppToFindFilesAndReplace\AppToFindFilesAndReplace\AppToFindFilesAndReplace\obj\Release\AppToFindFilesAndReplace.pdb

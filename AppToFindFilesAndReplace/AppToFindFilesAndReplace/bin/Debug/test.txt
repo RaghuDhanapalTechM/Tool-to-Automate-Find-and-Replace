@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<batch>
+  <request cmd="updatecourses">
+    <requests>
+      <course courseid="-entityid-">
+        <data>
+		 <cssparameters>
+	      <param name="Gradienttopcolor" value="#38759A" />
+	      <param name="Gradientbottomcolor" value="#7DB9E8" />
+	      <param name="Typecolor" value="#74B284" />
+	      <param name="TitleColor" value="#EBBE44" />
+	      <param name="Columnborder" value="#6996B3" />
+	      <param name="bookcover" value="/BrainHoney/Resource/22292/assets/pdx_files/product_decoration/myers10e/myers10e_banner_image.jpg" />
+	      <param name="course-banner-logo" value="/BrainHoney/Resource/22292/assets/pdx_files/product_decoration/myers10e/myers10e_banner_image.jpg" />
+	      <param name="course-background" value="/Brainhoney/Resource/6650/Content/images/test-content-background.jpg" />
+	      <param name="course-title-image" value="" />
+	     </cssparameters>
+		 <enableloadingscreen>true</enableloadingscreen>
+        </data>
+      </course>
+    </requests>
+  </request>  
+</batch>  
